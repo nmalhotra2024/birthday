@@ -1,0 +1,5 @@
+print("hello world")
+input("when's your birthday")
+input("when is your brother's birthday")
+input("when is your mom's birthday")
+input("when is your dad's birthday")
